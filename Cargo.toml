@@ -1,0 +1,14 @@
+[package]
+name = "ifx"
+version = "0.1.0"
+edition = "2021"
+authors = ["Djeddi Yacine"]
+repository = "https://github.com/anicine/ifx"
+license = "MIT"
+readme = "README.md"
+keywords = ["image", "descriptors", "features"]
+
+
+[dependencies]
+image = "0.25.2"
+imageproc = "0.25.0"
